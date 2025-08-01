@@ -13,5 +13,5 @@ As an undergraduate researcher on our team, you will:
 - Develop proficiency in **programming, data analysis, and basic statistical approaches**. 
 - Apply critical thinking to the **interpretation of molecular, biochemical, and genomic data**
 
-Undergraduate students interested in graduating with **Distinction in MCB** are expected to follow the guidelines provided (here)[https://mcb.illinois.edu/academics/undergraduate-programs/major-molecular-cellular-biology/graduation-distinction-mcb]. In addition to the objectives above, students seeking distinction are expected to make progress on an independent thesis project. 
+Undergraduate students interested in graduating with **Distinction in MCB** are expected to follow the guidelines provided [here](https://mcb.illinois.edu/academics/undergraduate-programs/major-molecular-cellular-biology/graduation-distinction-mcb). In addition to the objectives above, students seeking distinction are expected to make progress on an independent thesis project. 
 
