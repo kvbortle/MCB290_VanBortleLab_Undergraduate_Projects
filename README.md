@@ -2,7 +2,7 @@
 
 ## MCB290 Undergraduate Research Projects (Overview)
 
-What does MCB290 look like in the Van Bortle lab? We are a data-driven genomics lab primarily interested in understanding RNA polymerase III (Pol III) transcription regulation, including mechanisms of Pol III overactivity in cancer. As Pol III produces many classes of small noncoding RNAs integral to translation and protein synthesis - including tRNAs - increased levels of Pol III transcription are thought to promote growth-related phenotypes. Undergraduate research projects are built around developing proficiency in common data analysis and visualization techniques, and applying these skills to biological questions centered on tRNA dynamics in tissues and tumors. 
+**What does MCB290 look like in the Van Bortle lab?** We are a data-driven genomics lab primarily interested in understanding RNA polymerase III (Pol III) transcription regulation, including mechanisms of Pol III overactivity in cancer. As Pol III produces many classes of small noncoding RNAs integral to translation and protein synthesis - including tRNAs - increased levels of Pol III transcription are thought to promote growth-related phenotypes. Undergraduate research projects are built around developing proficiency in common data analysis and visualization techniques, and applying these skills to biological questions centered on tRNA dynamics in tissues and tumors. 
 
 Undergraduate research projects will require (1) programming in R, (2) the use of publicly available datasets (e.g. TCGA, ENCODE, etc.), and (3) common tools and analytical frameworks for high-throughput data analysis. This repository is therefore intended to serve as a hub for onboarding, materials, and relevant resources.
 
